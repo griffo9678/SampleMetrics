@@ -1,0 +1,11 @@
+PropertyID,Location,PurchasePrice,CurrentValue,AnnualRent,VacancyRate,address,price,bedrooms
+1,London,500000,420000,20000,0.10,London 1,500000,3
+2,London,505000,400000,18000,0.12,London 2,505000,3
+3,Manchester,300000,270000,15000,0.09,Manchester 3,300000,2
+4,Manchester,305000,250000,14000,0.11,Manchester 4,305000,2
+5,Birmingham,250000,200000,12000,0.15,Birmingham 5,250000,4
+6,Birmingham,260000,210000,13000,0.13,Birmingham 6,260000,4
+7,Leeds,180000,150000,10000,0.08,Leeds 7,180000,1
+8,Leeds,185000,145000,9500,0.09,Leeds 8,185000,1
+9,Liverpool,220000,180000,11000,0.10,Liverpool 9,220000,2
+10,Liverpool,225000,175000,10500,0.12,Liverpool 10,225000,2

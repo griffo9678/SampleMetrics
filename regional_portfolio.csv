@@ -1,0 +1,11 @@
+PropertyID,Location,PurchasePrice,CurrentValue,AnnualRent,VacancyRate,address,price,bedrooms
+1,Reading,200000,210000,9000,0.05,Reading 1,200000,2
+2,Swindon,180000,185000,8500,0.06,Swindon 2,180000,2
+3,Oxford,250000,260000,11000,0.04,Oxford 3,250000,3
+4,Cambridge,270000,280000,12000,0.05,Cambridge 4,270000,3
+5,Bristol,300000,310000,14000,0.04,Bristol 5,300000,3
+6,Reading,210000,220000,9500,0.05,Reading 6,210000,2
+7,Swindon,185000,190000,8700,0.06,Swindon 7,185000,2
+8,Oxford,260000,270000,11500,0.04,Oxford 8,260000,3
+9,Cambridge,275000,285000,12200,0.05,Cambridge 9,275000,3
+10,Bristol,310000,320000,14500,0.04,Bristol 10,310000,3

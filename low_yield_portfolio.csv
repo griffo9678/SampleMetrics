@@ -1,0 +1,11 @@
+PropertyID,Location,PurchasePrice,CurrentValue,AnnualRent,VacancyRate,address,price,bedrooms
+1,Leicester,250000,255000,8000,0.03,Leicester 1,250000,2
+2,Nottingham,260000,265000,8500,0.04,Nottingham 2,260000,3
+3,Derby,240000,245000,7800,0.03,Derby 3,240000,2
+4,Sheffield,270000,275000,9000,0.04,Sheffield 4,270000,3
+5,Liverpool,280000,285000,9200,0.03,Liverpool 5,280000,3
+6,Leicester,255000,260000,8100,0.03,Leicester 6,255000,2
+7,Nottingham,265000,270000,8600,0.04,Nottingham 7,265000,3
+8,Derby,245000,250000,7900,0.03,Derby 8,245000,2
+9,Sheffield,275000,280000,9100,0.04,Sheffield 9,275000,3
+10,Liverpool,285000,290000,9300,0.03,Liverpool 10,285000,3
